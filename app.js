@@ -1,4 +1,4 @@
-import QUOTEBANK from '../quoteBank.js'; 
+import QUOTEBANK from './quoteBank.js'; 
 
 const text = document.getElementById("text");
 const author = document.getElementById("author");
